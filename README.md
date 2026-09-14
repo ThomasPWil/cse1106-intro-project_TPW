@@ -7,6 +7,8 @@ Repo for my intro to computer science class
 ## whoever has the highest value will win. First to 10 points wins the game
 ## if a player roles a zero they lose a point
 
+## Tech: Written entirely in C
+
 ## instructions: download the file and navigate to downloaded folder in terminal then use
 ## gcc Dice_Battle.c when in project folder then use ./a.out to run the program
 ## Use the 1 key when prompted to start the game then use 1
