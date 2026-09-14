@@ -7,11 +7,12 @@ Repo for my intro to computer science class
 ## whoever has the highest value will win. First to 10 points wins the game
 ## if a player roles a zero they lose a point
 
-## download the file and use standard and navigate to downloaded folder in terminal then use
+## instructions: download the file and use standard and navigate to downloaded folder in terminal then use
 ## gcc Dice battle when in project folder then use ./a.out to run the program
-## controlled by using the 1 key when prompted to start the game then use 1 on the 
+## controlled by using the 1 key when prompted to start the game then use 1
 ## on the keyboard to roll the dice
 
-## learned how to use pointers and fgets for user input
+## What I learned: learned how to use pointers as well as difference between & and * when using pointers 
+## as well as fgets for user input
 
-## will add double dice and add the ability to get 2 points for rolling a 6 instead of just 1.
+## Future Improvments: will add double dice to get more rolls and add the ability to get 2 points for rolling a 6 instead of just 1.
